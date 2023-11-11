@@ -1,1 +1,2 @@
-# Conversor-De-números-Decimal-Para-Binarios
+# Conversor-De-Números-Decimal-Para-Binarios
+Simples
